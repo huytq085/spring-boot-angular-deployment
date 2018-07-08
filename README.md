@@ -1,6 +1,6 @@
 # spring-boot-angular-deployment
 
-## Build
+## Build and Run
 
 
     mvn install -DskipTests
